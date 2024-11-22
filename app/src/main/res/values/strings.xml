@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+        <string name="string1">Hello</string>
+        <string name="string2">Welcome</string>
+        <string name="string3">Goodbye</string>
+        <string name="string4">Enjoy</string>
+        <string name="string5">Thank You</string>
+
+</resources>
